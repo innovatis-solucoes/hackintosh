@@ -20,3 +20,12 @@ Não me responsabilizo por qualquer coisa que aconteça com o seu notebook. Faç
 - Operating SystemMicrosoft Windows 10 Home 64 Bit
 - CameraWebcam: HD
 #
+# Bootloader
+Nesse hackintosh estou usando a última versão do Opencore. A instalação foi realizada do zero a partir do Sonoma. Você pode seguir o guia do opencore disponibilizado através do link acima. 
+- Versão Opencore: 0.9.9 - Link: https://github.com/acidanthera/OpenCorePkg/releases
+#
+# Sobre o notebook e sistema
+- Rede: como temos apenas a rede Wi-Fi, para ativação usei a kext airportitlwm.kext - Link: https://github.com/OpenIntelWireless/itlwm/releases - versão para o macOS Sonoma
+
+#
+# Gráficos Intel UHD 620
